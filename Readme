@@ -1,0 +1,8 @@
+# URL Shortener
+
+API service to shorten and redirect URLs
+
+## Endpoints
+- POST /api/shorten
+- GET /<short_code>
+- GET /api/stats/<short_code>
